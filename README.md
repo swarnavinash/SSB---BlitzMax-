@@ -18,5 +18,3 @@ Left/Right = Move
 Space = Punch
 
 (Pressing left/right at the title screen adjusts the pitch of the theme song!)
-
-Sorry for your clothes in the game... Didn't have much time to work on graphics... I gotta catch my train in half an hour. Hope You Like  IT!
